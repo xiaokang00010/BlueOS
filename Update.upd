@@ -1,0 +1,15 @@
+[BlueOS]
+New=1.7.2
+Edition=内部开发者更新版本
+Message=更新了浏览器内核
+Langage=zh-cn
+[WebBrowser]
+New=1.7.2
+Edition=正式版
+Message=浏览器内核更新为Chrome 51内核,不再支持Windows XP
+Langage=zh-cn
+[MediaPlayer]
+New=1.7.2
+Edition=正式版
+Message=none
+Langage=zh-cn
